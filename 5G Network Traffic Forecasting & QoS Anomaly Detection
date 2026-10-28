@@ -1,0 +1,28 @@
+## Project Overview
+Developed a machine learning-based system to forecast 5G network traffic and identify Quality of Service (QoS) anomalies using network performance data.
+
+## Objectives
+- Forecast network traffic 24 hours ahead.
+- Detect abnormal network behavior.
+- Support proactive congestion management and network reliability.
+
+## Technologies Used
+Python, Pandas, NumPy, Scikit-learn, XGBoost, Isolation Forest, Matplotlib, Seaborn.
+
+## Dataset
+- 504 hourly records
+- 3 base stations
+- Network metrics including traffic volume, latency, packet loss, throughput, and signal quality.
+
+## Model Evaluation
+- Traffic forecasting: MAE = 1.762 GB/hour
+- Traffic forecasting: RMSE = 2.229 GB/hour
+- Anomaly detection: 2 of 3 known anomalies detected (66.7%)
+
+## Project Notebook
+See the Jupyter Notebook in this repository for the implementation, analysis, and evaluation.
+
+## Future Improvements
+- Evaluate models on larger, real-world 5G datasets.
+- Improve anomaly detection performance.
+- Develop a real-time network monitoring dashboard.
