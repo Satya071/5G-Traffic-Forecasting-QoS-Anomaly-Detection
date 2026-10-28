@@ -144,6 +144,8 @@ The project combines predictive analytics and anomaly detection to support:
 
 B.Tech — Electrical Engineering
 
+Madan Mohan Malviya University of Technology(MMMUT)
+
 GitHub : https://github.com/Satya071
 
 LinkedIn: https://www.linkedin.com/in/satyamishra778
